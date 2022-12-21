@@ -1,0 +1,8 @@
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\bin\Debug\ExtentedDelegateAssigmnet.exe.config
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\bin\Debug\ExtentedDelegateAssigmnet.exe
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\bin\Debug\ExtentedDelegateAssigmnet.pdb
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\obj\Debug\ExtentedDelegateAssigmnet.csproj.AssemblyReference.cache
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\obj\Debug\ExtentedDelegateAssigmnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\obj\Debug\ExtentedDelegateAssigmnet.csproj.CoreCompileInputs.cache
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\obj\Debug\ExtentedDelegateAssigmnet.exe
+C:\Users\arpan.tiwari\source\repos\ExtentedDelegateAssigmnet\ExtentedDelegateAssigmnet\obj\Debug\ExtentedDelegateAssigmnet.pdb
